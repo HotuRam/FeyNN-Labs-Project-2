@@ -17,6 +17,6 @@ Also time to time we provide thoughts how these plots and dataare useful in maki
 <br />
 <br />
 <br />
-  <img align="left" alt="image" src="https://github.com/HotuRam/FeyNN-Labs-Project-2/blob/main/Image/type-segment.jpg" width="800" height="400" />
+  <img align="left" alt="image" src="https://github.com/HotuRam/FeyNN-Labs-Project-2/blob/main/Image/type-segment.jpg" width="800" height="300" />
 <br />
 <br />
