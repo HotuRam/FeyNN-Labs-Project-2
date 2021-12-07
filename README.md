@@ -6,3 +6,8 @@ Hence it is necessary that a databasemust be maintained to identify such firms a
 • We understand the Vitamin A dose in India from 2009-13 by using Data visualiza-tion techniques.           
 Also time to time we provide thoughts how these plots and dataare useful in making a bio-tech startup.        
 • We also explore the data of hospitals and availability of beds in these hospitals inIndia from 2017-2019.               
+<br />
+  <img align="left" alt="image" src="https://github.com/HotuRam/FeyNN-Labs-Project-2/blob/main/Hnet.com-image.gif" width="800" height="450" />
+<br />
+<br />
+<br />
