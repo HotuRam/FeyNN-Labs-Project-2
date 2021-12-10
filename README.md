@@ -1,4 +1,5 @@
-# FeyNN-Labs-Project-2
+# Feynn-Labs-Project-2
+## ~~ Market Segmentation ~~
 The biotech industry in India is growing one.  More start-ups are joining and ex-panding the share of output for the industry.          
 Hence it is necessary that a databasemust be maintained to identify such firms and record their contributions to the in-dustry.         
 • Market segmentation is playing a very important role in the Biotech industry, Forthe growth and understanding of an audience.                
